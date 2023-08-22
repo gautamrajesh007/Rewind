@@ -1,8 +1,8 @@
-HELP.md
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+Back-End/HELP.md
+Back-End/target/
+Back-End/!.mvn/wrapper/maven-wrapper.jar
+Back-End/!**/src/main/**/target/
+Back-End/!**/src/test/**/target/
 
 ### STS ###
 .apt_generated
@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ### ENV Files ###
-src/main/resources/.env
-src/main/resources/.env.example
+Back-End/src/main/resources/.env
+Back-End/src/main/resources/.env.example
